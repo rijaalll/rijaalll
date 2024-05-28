@@ -21,8 +21,4 @@ Hello, I'm Ahmad Rizal!
     <a href="https://www.instagram.com/ahmdrizaalll"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-## 💻 My Back End Skill
-
-<p>
-    <a href="https://www.php.net/" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=plastic&logo=android-studio&logoColor=white"></a>
-</p>
+## 💻 My Skill
