@@ -1,6 +1,6 @@
 <h1 align="center">
 Hello, I'm Ahmad Rizal!
-	<a href="https://github.com/zaarepo" target="_self">
+	<a href="https://github.com/rijaalll" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
