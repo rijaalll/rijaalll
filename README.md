@@ -1,12 +1,12 @@
-<p align="center">
-   <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=29&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500px&height=25&lines=Hello%2C+my+name+is+Ahmad+Rizal!;I'm+a+Junior+Website+Developer"></a>
+<p align="left">
+   <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=29&duration=3500&pause=1000&color=FFFFFF&center=false&vCenter=true&random=false&width=500px&height=25&lines=Hello%2C+my+name+is+Ahmad+Rizal!;I'm+a+Junior+Website+Developer"></a>
 </p>
 
 
 <hr>
 
 
-<div style="padding: 1px;">
+<div align="left">
    <p>👋 Hi Everybody </p>
    <p>😊 My name is Rizal</p>
    <p>🙋‍♂️ I am 19 years old</p>
@@ -17,7 +17,7 @@
 
 ## 💻 My Skill
 
-<p style="margin: 10px;">
+<p>
    <a href="#"><img alt="HTML" align="left" width="27px" src="https://simpleicons.now.sh/html5/E34F26"></a>
    <a href="#"><img alt="CSS" align="left" width="27px" src="https://simpleicons.now.sh/css3/1572B6"></a>
    <a href="#"><img alt="JavaScript" align="left" width="27px" src="https://simpleicons.now.sh/javascript/F7DF1E"></a>
