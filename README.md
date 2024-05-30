@@ -1,9 +1,4 @@
-<h1 align="center">
-Hello, I'm Ahmad Rizal!
-	<a href="https://github.com/rijaalll" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&height=40&lines=Hello%2C+my+name+is+Ahmad+Rizal!;I'm+a+Junior+Website+Developer)](https://git.io/typing-svg)
 
 <hr>
 
@@ -11,7 +6,6 @@ Hello, I'm Ahmad Rizal!
 👋 Hi Everybody
 😊 My name is Rizal
 🙋‍♂️ I am 19 years old
-💻 I am a Junior Website Developer
 🌟 I want to become a full stack developer
 </pre>
 <hr>
@@ -27,8 +21,11 @@ Hello, I'm Ahmad Rizal!
    <a href="#"><img alt="SQL" width="27px" src="https://simpleicons.now.sh/mysql/4479A1"></a>
 </p>
 
-## 🤝 Connect with me
 
-<a href="mailto:rizalajipermana@gmail.com"><img align="left" width="27px" src="https://simpleicons.now.sh/gmail/EA4335" alt="Gmail"/></a>
-<a href="https://www.facebook.com/profile.php?id=100021684815269"><img align="left" width="27px" src="https://simpleicons.now.sh/facebook/0866FF" alt="Facebook"/></a>
-<a href="https://www.instagram.com/ahmdrizaalll" target="_blank"><img align="left" width="27px" src="https://simpleicons.now.sh/instagram/E4405F" alt="Instagram"/></a>
+
+## 🤝 Connect with me
+<p>
+   <a href="mailto:rizalajipermana@gmail.com"><img align="left" width="27px" src="https://simpleicons.now.sh/gmail/EA4335" alt="Gmail"/></a>
+   <a href="https://www.facebook.com/profile.php?id=100021684815269"><img align="left" width="27px" src="https://simpleicons.now.sh/facebook/0866FF" alt="Facebook"/></a>
+   <a href="https://www.instagram.com/ahmdrizaalll" target="_blank"><img align="left" width="27px" src="https://simpleicons.now.sh/instagram/E4405F" alt="Instagram"/></a>
+</p>
