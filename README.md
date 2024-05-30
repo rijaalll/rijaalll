@@ -30,8 +30,6 @@ Hello, I'm Ahmad Rizal!
 
 ## 🤝 Connect with me
 
-<p align="center">
-	<a href="mailto:rizalajipermana@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.facebook.com/profile.php?id=100021684815269" target="_blank" ><img src="https://img.shields.io/badge/facebook-%230A66C2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-    <a href="https://www.instagram.com/ahmdrizaalll" target="_blank" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
+<a href="mailto:rizalajipermana@gmail.com"><img align="left" width="20px" src="https://simpleicons.now.sh/gmail/495f7e" alt="Gmail"/></a>
+<a href="https://www.facebook.com/profile.php?id=100021684815269"><img align="left" width="20px" src="https://simpleicons.now.sh/facebook/495f7e" alt="Facebook"/></a>
+<a href="https://www.instagram.com/ahmdrizaalll" target="_blank"><img align="left" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" alt="Instagram"/></a>
