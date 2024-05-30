@@ -4,17 +4,18 @@
 
 <hr>
 
-<pre align="center">
-👋 Hi Everybody </a>
-😊 My name is Rizal
-🙋‍♂️ I am 19 years old
-🌟 I want to become a full stack developer
-</pre>
+<div style="padding: 1px;">
+   <p>👋 Hi Everybody </p>
+   <p>😊 My name is Rizal</p>
+   <p>🙋‍♂️ I am 19 years old</p>
+   <p>🌟 I want to become a full stack developer</p>
+</div>
 
 <hr>
 
 ## 💻 My Skill
-<p>
+
+<p style="margin: 10px;">
    <a href="#"><img alt="HTML" align="left" width="27px" src="https://simpleicons.now.sh/html5/E34F26"></a>
    <a href="#"><img alt="CSS" align="left" width="27px" src="https://simpleicons.now.sh/css3/1572B6"></a>
    <a href="#"><img alt="JavaScript" align="left" width="27px" src="https://simpleicons.now.sh/javascript/F7DF1E"></a>
@@ -24,10 +25,11 @@
    <a href="#"><img alt="SQL" width="27px" src="https://simpleicons.now.sh/mysql/4479A1"></a>
 </p>
 
-
+<hr>
 
 ## 🤝 Connect with me
-<p>
+
+<p style="margin: 10px">
    <a href="mailto:rizalajipermana@gmail.com"><img align="left" width="27px" src="https://simpleicons.now.sh/gmail/EA4335" alt="Gmail"/></a>
    <a href="https://www.facebook.com/profile.php?id=100021684815269"><img align="left" width="27px" src="https://simpleicons.now.sh/facebook/0866FF" alt="Facebook"/></a>
    <a href="https://www.instagram.com/ahmdrizaalll" target="_blank"><img align="left" width="27px" src="https://simpleicons.now.sh/instagram/E4405F" alt="Instagram"/></a>
