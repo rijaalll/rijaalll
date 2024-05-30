@@ -12,7 +12,7 @@ Hello, I'm Ahmad Rizal!
 😊 My name is Rizal
 🙋‍♂️ I am 19 years old
 💻 I am a Junior Website Developer
-🌟 Main language: PHP and Javascript
+🌟 I want to become a full stack developer
 </pre>
 <hr>
 
