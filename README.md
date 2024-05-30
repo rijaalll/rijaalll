@@ -13,14 +13,6 @@ Hello, I'm Ahmad Rizal!
 </pre>
 <hr>
 
-## 🤝 Connect with me
-
-<p align="center">
-	<a href="mailto:rizalajipermana@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.facebook.com/profile.php?id=100021684815269" target="_blank" ><img src="https://img.shields.io/badge/facebook-%230A66C2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-    <a href="https://www.instagram.com/ahmdrizaalll" target="_blank" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
-
 ## 💻 My Skill
 
 <p>
@@ -31,4 +23,12 @@ Hello, I'm Ahmad Rizal!
     <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+</p>
+
+## 🤝 Connect with me
+
+<p align="center">
+	<a href="mailto:rizalajipermana@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.facebook.com/profile.php?id=100021684815269" target="_blank" ><img src="https://img.shields.io/badge/facebook-%230A66C2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+    <a href="https://www.instagram.com/ahmdrizaalll" target="_blank" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
