@@ -8,8 +8,11 @@ Hello, I'm Ahmad Rizal!
 <hr>
 
 <pre>
+👋 Hi Everybody
+😊 My name is Rizal
+🙋‍♂️ I am 19 years old
 💻 I am a Junior Website Developer
-🌟 Main language: PHP 😁
+🌟 Main language: PHP and Javascript
 </pre>
 <hr>
 
