@@ -10,7 +10,6 @@
    <p>👋 Hi Everybody </p>
    <p>😊 My name is Rizal</p>
    <p>🙋‍♂️ I am 19 years old</p>
-   <p>🌟 I want to become a full stack developer</p>
 </div>
 
 <hr>
